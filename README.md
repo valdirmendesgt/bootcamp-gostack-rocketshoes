@@ -1,8 +1,8 @@
 <h1 align="center">
-    <strong>Rocketshoes</strong>
+    <strong>Aplicação Front-end Rocketshoes</strong>
     <br />
     <br />
-  <img alt="Rocketshoes" title="Rocketshoes" src="./src/assets/images/logo.svg" width="300px" />
+  <img alt="Rocketshoes" title="Rocketshoes" src=".github/logo.svg" width="300px" />
 </h1>
 
 ## Sobre o projeto
