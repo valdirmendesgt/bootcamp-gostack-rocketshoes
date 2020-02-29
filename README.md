@@ -44,4 +44,4 @@ yarn start
 
 ## :page_facing_up: Licença de uso
 
-Esse projeto está sob a licença MIT detalhada no arquivo [LICENSE](LICENSE.md).
+Esse projeto está sob a licença MIT detalhada no arquivo [LICENSE](LICENSE).
